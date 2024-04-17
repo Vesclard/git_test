@@ -1,2 +1,3 @@
 # git_test
-My journey started here
+My journey started here.
+Hello Odin!
